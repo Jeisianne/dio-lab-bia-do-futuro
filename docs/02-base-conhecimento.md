@@ -39,7 +39,7 @@ produtos = json.load(open('./data/produtos_financeiros.json'))
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 Os dados são injetados no nosso prompt, garantindo melhor contexto. E as informações são carregadas dinâmicamente trazendo flexibilidade.
-
+```
 DADOS DO CLIENTE E PERFIL (data/perfil_investidor.json):
 {
   "nome": "João Silva",
@@ -129,7 +129,7 @@ PRODUTOS DISPONIVEIS PARA ENSINO (data/produtos_financeiros.json):
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   }
 ]
-
+```
 ---
 
 ## Exemplo de Contexto Montado
