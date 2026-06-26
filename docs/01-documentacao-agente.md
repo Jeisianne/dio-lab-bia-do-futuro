@@ -62,7 +62,7 @@ flowchart TD
 |------------|-----------|
 | Interface | [ Chatbot em Streamlit] |
 | LLM | [ GPT-4 via API] |
-| Base de Conhecimento | [ JSON/CSV com dados do cliente] |
+| Base de Conhecimento | [ JSON/CSV/XLSX com dados do cliente] |
 | Validação | [ Checagem de alucinações] |
 
 ---
