@@ -15,7 +15,7 @@ Chat interativo: o usuário conversa em linguagem natural e o assistente respond
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-Pequenos empreendedores: querem apoio para separar finanças pessoais das empresariais, calcular fluxo de caixa e avaliar crédito.
+Pequenos empreendedores: que querem apoio para separar finanças pessoais das empresariais, calcular fluxo de caixa e avaliar crédito.
 
 
 ---
