@@ -1,29 +1,28 @@
 # Pitch (3 minutos)
 
-> [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+> Muitos microempreendedores misturam finanças pessoais e empresariais. 
 
-[Sua descrição aqui]
+O que gera confusão e dificulta saber se o negócio dá lucro.
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+>O Chris resolve o problema da falta de clareza financeira dos microempreendedores.
 
-[Sua descrição aqui]
+Ele ajuda a separar finanças pessoais das empresariais, organizar receitas e despesas, entender fluxo de caixa e avaliar crédito, traduzindo conceitos financeiros em linguagem simples e prática.
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+>Infelizmente minha máquina não conseguiu rodar o programa por questão de memória.
 
-[Descreva o que será mostrado]
+Meu PC é antigo só tem 4GB de RAM e 246 de armazenamento, e por isso não consegui que abrisse nem o Ollama 😢
 
 ### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+> Educação financeira acessível, como mentor educativo.
 
-[Sua descrição aqui]
+Ele não apenas responde perguntas, mas ensina a pensar financeiramente, o que é uma abordagem nova e de alto valor social.
 
 ---
 
