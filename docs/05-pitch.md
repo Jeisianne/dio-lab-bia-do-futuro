@@ -40,4 +40,4 @@ Ele não apenas responde perguntas, mas ensina a pensar financeiramente, o que �
 
 > Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
 
-[Link do vídeo]
+Não consegui anexa um vídeo aqui 🤷‍♀️
