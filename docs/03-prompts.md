@@ -79,4 +79,4 @@ REGRAS:
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
 - Fiz os primeiros teste usando o Copilot, ele me retornou tudo de acordo como deveria funcionar.
-- O Gimini fujiu um pouco do roteiro proposto.
+- O Gimini saiu um pouquinho do roteiro proposto.
